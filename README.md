@@ -4,7 +4,7 @@ An AI analyst that explains **why** revenue changed between months, and **checks
 
 **Live app:** [https://why-did-revenue-move-djyswkuhmthrqzug75vn2z.streamlit.app/]  |  **Demo video (2 min):** [PASTE VIDEO LINK]
 
-![Dashboard]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 105952.png")
+[Dashboard]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 105952.png")
 
 ## The business problem
 Managers see "revenue went up £133K" and ask the same follow-up: *why, and what should we do?*
@@ -28,8 +28,8 @@ Revenue rose **£133,348 (+12.9%)**. More customers added £77,886 and more orde
 - **Handles wrong assumptions.** Asked "why did revenue drop in Nov 2011?", it replies that revenue actually rose.
 - **Handles outages.** If one AI model is overloaded, the app tries backup models.
 
-![Verified answer]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110025.png")
-![Checker warning]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110131.png")
+[Verified answer]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110025.png")
+[Checker warning]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110131.png")
 
 ## Tech stack
 Python, pandas, DuckDB (SQL), Streamlit, Google Gemini API (function calling).
