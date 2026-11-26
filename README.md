@@ -3,9 +3,7 @@
 
 An AI analyst that explains **why** revenue changed between months, and **checks its own numbers**.
 
-**Live app:** [https://why-did-revenue-move-djyswkuhmthrqzug75vn2z.streamlit.app/]  |  **Demo video (2 min):** [PASTE VIDEO LINK]
-
-[Dashboard]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 105952.png")
+**Live app:** [https://why-did-revenue-move-djyswkuhmthrqzug75vn2z.streamlit.app/]  |  **Demo video (2 min):
 
 ## The business problem
 Managers see "revenue went up £133K" and ask the same follow-up: *why, and what should we do?*
@@ -32,7 +30,7 @@ Revenue rose **£133,348 (+12.9%)**. More customers added £77,886 and more orde
 <img width="1367" height="732" alt="Screenshot 2026-11-26 110131" src="https://github.com/user-attachments/assets/2189b629-f000-458d-9253-f39d46c0ee87" />
 <img width="1506" height="606" alt="Screenshot 2026-11-26 105952" src="https://github.com/user-attachments/assets/121eeff5-8a6f-4179-89cf-41c306c5a13d" />
 
-[Checker warning]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110131.png")
+
 
 ## Tech stack
 Python, pandas, DuckDB (SQL), Streamlit, Google Gemini API (function calling).
