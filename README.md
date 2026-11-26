@@ -1,3 +1,4 @@
+<img width="1395" height="722" alt="Screenshot 2026-11-26 110025" src="https://github.com/user-attachments/assets/9a9ed089-d47c-4b79-b475-215c094e704b" />
 # Why Did Revenue Move?
 
 An AI analyst that explains **why** revenue changed between months, and **checks its own numbers**.
@@ -28,7 +29,7 @@ Revenue rose **£133,348 (+12.9%)**. More customers added £77,886 and more orde
 - **Handles wrong assumptions.** Asked "why did revenue drop in Nov 2011?", it replies that revenue actually rose.
 - **Handles outages.** If one AI model is overloaded, the app tries backup models.
 
-[Verified answer]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110025.png")
+[Verified answer](<img width="1395" height="722" alt="Screenshot 2026-11-26 110025" src="https://github.com/user-attachments/assets/9a9ed089-d47c-4b79-b475-215c094e704b" />)
 [Checker warning]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110131.png")
 
 ## Tech stack
