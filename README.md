@@ -29,7 +29,9 @@ Revenue rose **£133,348 (+12.9%)**. More customers added £77,886 and more orde
 - **Handles wrong assumptions.** Asked "why did revenue drop in Nov 2011?", it replies that revenue actually rose.
 - **Handles outages.** If one AI model is overloaded, the app tries backup models.
 
-[Verified answer](<img width="1395" height="722" alt="Screenshot 2026-11-26 110025" src="https://github.com/user-attachments/assets/9a9ed089-d47c-4b79-b475-215c094e704b" />)
+<img width="1367" height="732" alt="Screenshot 2026-11-26 110131" src="https://github.com/user-attachments/assets/2189b629-f000-458d-9253-f39d46c0ee87" />
+<img width="1506" height="606" alt="Screenshot 2026-11-26 105952" src="https://github.com/user-attachments/assets/121eeff5-8a6f-4179-89cf-41c306c5a13d" />
+
 [Checker warning]("C:\Users\shash\OneDrive\Pictures\Screenshots\Screenshot 2026-11-26 110131.png")
 
 ## Tech stack
