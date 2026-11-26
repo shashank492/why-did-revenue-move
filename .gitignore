@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+sales_raw.csv
+sales_clean.csv
+online_retail_II.xlsx
+.streamlit/secrets.toml
+*.env
